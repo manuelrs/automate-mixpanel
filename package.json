@@ -1,0 +1,25 @@
+{
+  "name": "automate-mixpanel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelrs/automate-mixpanel.git"
+  },
+  "keywords": [],
+  "author": "Manuel R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelrs/automate-mixpanel/issues"
+  },
+  "homepage": "https://github.com/manuelrs/automate-mixpanel#readme",
+  "dependencies": {
+    "ncp": "^2.0.0",
+    "nodegit": "^0.21.2"
+  }
+}
